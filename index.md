@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## <center>Lu Yang's Home Page<center>
 
 You can use the [editor on GitHub](https://github.com/yao0801/yao0801.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
