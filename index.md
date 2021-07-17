@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>About Me</h1>
+      <h3><center>About Me<center></h3>
       <p><b>Name: Lu Yang</b></p>
       <p><b>Experience:</b></p>
       <p><b>E-mail：1234567789@qq.com</b></p>
@@ -11,7 +11,7 @@
       <p><b>Otrher links：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/480x640w.jpg" width="100%">      % 插入证件照代码
+      <img src="/480x640w.jpg" width="100%"> 
     </td>
   </tr>
 </table>
