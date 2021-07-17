@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <center><h3>About Me</h3><center>
+      <h3>About Me</h3>
       <p><b>Name: Lu Yang</b></p>
       <p><b>Experience:</b></p>
       <p><b>E-mail：1234567789@qq.com</b></p>
