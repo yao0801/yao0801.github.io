@@ -1,9 +1,20 @@
-## <center>Lu Yang's Home Page<center>
+# <center>Lu Yang's Home Page<center>
 
-You can use the [editor on GitHub](https://github.com/yao0801/yao0801.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Name:Lu Yang</h1>
+      <p><b>Experience:</b></p>
+      <p><b>E-mail：1234567789@qq.com</b></p>
+      <p><b>Address：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>Otrher links：××市××区××路××号××大学，××楼，邮编×××</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
